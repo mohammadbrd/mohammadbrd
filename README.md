@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/mohammadbrd/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Barabadi-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:reyneh.100.mb@gmail.com">
+  <a href="mailto:mohammad8brd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/mohammad8brd">
@@ -77,14 +77,14 @@ I have experience with robotics projects, microcontroller programming, PCB desig
 ### Quadruped Spider Robot  
 STM32-based quadruped robot with 3D-printed mechanical design, servo control, and image-processing-based obstacle detection.
 
-### Gesture-Controlled Robot  
-A robot controlled through a sensor glove using MPU-6050, Arduino, Bluetooth communication, STM32, and motor drivers.
+### 3-DOF Serial Robot Control  
+Control and implementation of a 3-degree-of-freedom robotic arm, including mechanical design and motor control logic.
 
 ### RoboCup Junior Soccer Robot  
 Autonomous soccer robot with IR ball detection, gyroscope-based orientation, line detection, custom PCB design, and motor control.
 
-### 3-DOF Serial Robot Control  
-Control and implementation of a 3-degree-of-freedom robotic arm, including mechanical design and motor control logic.
+### Gesture-Controlled Robot  
+A robot controlled through a sensor glove using MPU-6050, Arduino, Bluetooth communication, STM32, and motor drivers.
 
 ---
 
@@ -99,14 +99,14 @@ Control and implementation of a 3-degree-of-freedom robotic arm, including mecha
 
 ## Currently Exploring
 
-- Robotics frameworks and ROS2  
-- Machine learning for signal processing  
-- Molecular communication modeling  
-- Autonomous systems and intelligent control  
-- Embedded software for real-world robotic systems  
+- Robotics and autonomous systems
+- Robot motion control and nonlinear control systems
+- Human-robot interaction and assistive robotics
+- Embedded software with ARM, STM32, Arduino, C/C++, and Python
+- Sensor integration, PCB design, testing, and debugging
 
 ---
 
 <p align="center">
-  <i>Always interested in robotics, embedded systems, communication technologies, and intelligent autonomous systems.</i>
+  <i>Always interested in robotics, embedded systems and intelligent autonomous systems.</i>
 </p>
