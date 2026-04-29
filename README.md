@@ -67,7 +67,6 @@ I have experience with robotics projects, microcontroller programming, PCB desig
   <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat" />
   <img src="https://img.shields.io/badge/SolidWorks-red?style=flat" />
   <img src="https://img.shields.io/badge/Proteus-blue?style=flat" />
-  <img src="https://img.shields.io/badge/GNU%20Radio-FF6600?style=flat" />
 </p>
 
 ---
