@@ -76,13 +76,13 @@ I have experience with robotics projects, microcontroller programming, PCB desig
 - [**Quadruped Spider Robot**](https://github.com/mohammadbrd/Quadruped-Spider-Robots)    
   STM32-based quadruped robot with 3D-printed mechanical design, servo control, and image-processing-based obstacle detection.
 
-- **3-DOF Serial Robot Control**  
+- [**3-DOF Serial Robot Control**](https://github.com/mohammadbrd/Control-of-3-DOF-Serial-Robot)  
   Control and implementation of a 3-degree-of-freedom robotic arm, including mechanical design and motor control logic.
 
-- **RoboCup Junior Soccer Robot**  
+- [**RoboCup Junior Soccer Robot**](https://github.com/mohammadbrd/RoboCup-Junior-Soccer-Robot) 
   Autonomous soccer robot with IR ball detection, gyroscope-based orientation, line detection, custom PCB design, and motor control.
 
-- **Gesture-Controlled Robot**  
+- [**Gesture-Controlled Robot**](https://github.com/mohammadbrd/Gesture-Robot) 
   A robot controlled through a sensor glove using MPU-6050, Arduino, Bluetooth communication, STM32, and motor drivers.
 
 ---  
