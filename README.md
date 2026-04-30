@@ -73,7 +73,7 @@ I have experience with robotics projects, microcontroller programming, PCB desig
 
 ## Featured Projects
 
-- Quadruped Spider Robot  
+- Quadruped Spider Robot    
 STM32-based quadruped robot with 3D-printed mechanical design, servo control, and image-processing-based obstacle detection.
 
 ### 3-DOF Serial Robot Control  
