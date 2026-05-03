@@ -90,7 +90,6 @@ I have experience with robotics projects, microcontroller programming, PCB desig
 ## GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammadbrd&show_icons=true&theme=dracula" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbrd&hide=Makefile,Tex&layout=compact&theme=dracula" />
 </p>
 
