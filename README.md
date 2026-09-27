@@ -38,7 +38,7 @@ I study **Autonomy Technologies** at **FAU Erlangen-Nürnberg** and have a B.Sc.
 
 ---
 
-## Recognition
+## Awards & Achievements
 
 - RoboCup 2017 World Champion, Nagoya, Japan
 - RoboCup 2017 Best Presentation, Nagoya, Japan
