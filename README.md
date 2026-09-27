@@ -1,110 +1,67 @@
 <h1 align="center">Hi, I'm Mohammad Barabadi 👋</h1>
 
 <p align="center">
-  <b>M.Sc. Student in Autonomy Technologies at FAU Erlangen-Nürnberg</b><br>
-  Robotics • Embedded Systems • Signal Processing • Autonomous Systems
+  <b>M.Sc. Autonomy Technologies at FAU Erlangen-Nürnberg</b><br>
+  Working Student in Robot and Software Development at Cartken GmbH<br>
+  Robotics • Embedded Systems • Control
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammadbrd/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Barabadi-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Barabadi-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohammad8brd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/mohammad8brd">
-    <img src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mohammadbrd&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
 
 ## About Me
 
-I am a Master's student in **Autonomy Technologies** at **FAU Erlangen-Nürnberg**, with a background in **Electrical Engineering** from **Amirkabir University of Technology**.
+I study **Autonomy Technologies** at **FAU Erlangen-Nürnberg** and have a B.Sc. in **Electrical Engineering (Control)** from **Amirkabir University of Technology**. I work on robotics projects that combine embedded hardware, sensors, control, and software.
 
-My interests are focused on the intersection of **robotics, embedded systems, signal processing, and intelligent autonomous systems**. I enjoy building systems that combine hardware, software, sensors, control logic, and real-world implementation.
+At **Cartken**, I diagnose robot hardware faults, replace cameras, calibrate cameras and IMUs, apply calibration and configuration changes, and prepare robots for deployment.
 
-I have experience with robotics projects, microcontroller programming, PCB design, control systems, and Python-based simulations.
-
----
-
-## Technical Interests
-
-- Robotics and autonomous systems  
-- Embedded systems and microcontroller programming  
-- Sensor integration and motor control  
-- Signal processing and communication systems  
-- Control systems and system modeling  
-- Applied machine learning for engineering problems  
+For a team **RoboRacer** project at FAU, I developed the ROS 2 control module using Pure Pursuit path tracking and PID speed control. I tested the controller in simulation and on the physical robot.
 
 ---
 
 ## Tools and Technologies
 
-### Programming
+**Programming:** C, C++, Python, MATLAB
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-orange?style=flat" />
-</p>
+**Robotics and control:** ROS 2, Pure Pursuit, PID/PI control, trajectory tracking, sensor integration
 
-### Embedded and Robotics
+**Embedded systems:** STM32, Arduino, PWM motor control, PCB design
 
-<p>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-</p>
-
-### Engineering Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat" />
-  <img src="https://img.shields.io/badge/SolidWorks-red?style=flat" />
-  <img src="https://img.shields.io/badge/Proteus-blue?style=flat" />
-</p>
+**Engineering tools:** Simulink, SolidWorks, Altium Designer, Linux, Git
 
 ---
 
 ## Featured Projects
 
-- [**Quadruped Spider Robot**](https://github.com/mohammadbrd/Quadruped-Spider-Robots)    
-  STM32-based quadruped robot with 3D-printed mechanical design, servo control, and image-processing-based obstacle detection.
+- [**RoboRacer Control Module**](https://github.com/mohammadbrd/Roboracer-Control-Module)  
+  My contribution to a team F1TENTH project: ROS 2 control, Ackermann steering and speed commands, and simulation-to-robot validation. In one physical run, onboard localization recorded 31.56 m of travel and a 0.095 m median lateral tracking error.
 
-- [**3-DOF Serial Robot Control**](https://github.com/mohammadbrd/3DOF-Serial-Robot-Controller)  
-  Control and implementation of a 3-degree-of-freedom robotic arm, including mechanical design and motor control logic.
+- [**Quadruped Spider Robot**](https://github.com/mohammadbrd/Quadruped-Spider-Robots)  
+  My bachelor's thesis team project. I designed and built the four-legged robot using 3D-printed parts and an STM32-based platform. A teammate worked on obstacle avoidance.
 
-- [**RoboCup Junior Soccer Robot**](https://github.com/mohammadbrd/Robocup-Junior-Soccer-Robot) 
-  Autonomous soccer robot with IR ball detection, gyroscope-based orientation, line detection, custom PCB design, and motor control.
+- [**3-DOF Serial Robotic Arm**](https://github.com/mohammadbrd/3DOF-Serial-Robot-Controller)  
+  Arduino-based joint control with potentiometer feedback, PI position control, and PWM motor driving.
 
-- [**Gesture-Controlled Robot**](https://github.com/mohammadbrd/Gesture-Robot) 
-  A robot controlled through a sensor glove using MPU-6050, Arduino, Bluetooth communication, STM32, and motor drivers.
+- [**RoboCup Junior Soccer Robot**](https://github.com/mohammadbrd/Robocup-Junior-Soccer-Robot)  
+  Autonomous robot with STM32 control, IR ball detection, orientation sensing, line detection, and custom PCBs.
 
----  
-
-## GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbrd&hide=Makefile,Tex&layout=compact&theme=dracula" />
-</p>
+- [**Gesture-Controlled Robot**](https://github.com/mohammadbrd/Gesture-Robot)  
+  Sensor-glove control using an MPU-6050, Arduino Micro, Bluetooth, and STM32 motor control.
 
 ---
 
-## Currently Exploring
+## Recognition
 
-- Robotics and autonomous systems
-- Robot motion control and nonlinear control systems
-- Human-robot interaction and assistive robotics
-- Embedded software with ARM, STM32, Arduino, C/C++, and Python
-- Sensor integration, PCB design, testing, and debugging
-
----
-
-<p align="center">
-  <i>Always interested in robotics, embedded systems and intelligent autonomous systems.</i>
-</p>
+- RoboCup 2017 World Champion, Nagoya, Japan
+- RoboCup 2017 Best Presentation, Nagoya, Japan
