@@ -1,0 +1,636 @@
+profile:
+  name: Mohammad Barabadi
+  last_updated: '2026-09-27'
+  location: Erlangen, Germany
+  email: mohammad.barabadi@fau.de
+  phone: +49 15738159150
+  linkedin: https://www.linkedin.com/in/mohammadbrd/
+  github: https://github.com/mohammadbrd
+  current_position: M.Sc. Autonomy Technologies student at FAU and part-time working student at Cartken GmbH
+  technical_focus:
+  - Robot path tracking and control
+  - Microcontroller-based robot control
+  - Sensor and actuator integration
+  - Robot hardware diagnostics and calibration
+  - Modelling and simulation
+  target_roles:
+  - Robotics and Mechatronics
+  - Embedded Systems
+  - Automation and Control
+  - Electronics Hardware
+  - Software Development
+  preferred_locations:
+  - Erlangen
+  - Nürnberg
+  - Munich
+  - Germany
+education:
+- institution: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+  location: Erlangen, Germany
+  degree: M.Sc. Autonomy Technologies
+  start: 2024-10
+  expected_graduation: 2027-10
+  completed_ects: 50
+  total_ects: 120
+  completed_courses:
+  - name: Robot Mechanisms and User Interfaces
+    ects: 5
+    result: graded
+    grade: 1.7
+  - name: Rehabilitation and Assistive Robotics
+    ects: 5
+    result: graded
+    grade: 2.3
+  - name: Human-Robot Co-Adaptation
+    ects: 5
+    result: graded
+    grade: 3.3
+  - name: Nonlinear Control Systems
+    ects: 5
+    result: graded
+    grade: 2.7
+  - name: Robotics 1
+    ects: 5
+    result: graded
+    grade: 1.7
+  - name: Robotics 2
+    ects: 5
+    result: graded
+    grade: 1.7
+  - name: Pattern Recognition
+    ects: 5
+    result: graded
+    grade: 3.0
+  - name: 'Seminar: Legged Locomotion of Robots'
+    ects: 2.5
+    result: graded
+    grade: 1.7
+  - name: 'Laboratory Course: Automatic Control I'
+    ects: 2.5
+    result: pass
+    grade: null
+  - name: Team Project / Industriepraktikum (RoboRacer)
+    ects: 10
+    result: pass
+    grade: null
+- institution: Amirkabir University of Technology
+  location: Tehran, Iran
+  degree: B.Sc. Electrical Engineering, Control
+  start: 2018-09
+  degree_awarded: '2023-09-22'
+  final_average_out_of_20: 17.81
+  entrance_exam_rank:
+    rank: 579
+    applicants: 134183
+    group: Mathematics and Technical Sciences
+  selected_courses:
+  - name: Computer Programming
+    grade_out_of_20: 20.0
+  - name: Electrical Circuits 1
+    grade_out_of_20: 20.0
+  - name: Electrical Circuits 1 Lab
+    grade_out_of_20: 20.0
+  - name: Electronics Lab
+    grade_out_of_20: 20.0
+  - name: Logic Circuits Lab
+    grade_out_of_20: 20.0
+  - name: Linear Control Systems Lab
+    grade_out_of_20: 20.0
+  - name: Digital Control Systems Lab
+    grade_out_of_20: 20.0
+  - name: Measuring Lab
+    grade_out_of_20: 20.0
+  - name: Electronics Workshop
+    grade_out_of_20: 20.0
+  - name: Project of Electrical Engineering
+    grade_out_of_20: 20.0
+  - name: Introduction to Computer-Assisted Intelligence Lab
+    grade_out_of_20: 19.79
+  - name: Computer Architecture and Microprocessors
+    grade_out_of_20: 19.1
+  - name: Numerical Calculations
+    grade_out_of_20: 19.0
+  - name: Practical Training
+    grade_out_of_20: 19.0
+  - name: Linear Algebra
+    grade_out_of_20: 18.9
+  - name: General Mathematics 2
+    grade_out_of_20: 19.65
+  - name: Differential Equations
+    grade_out_of_20: 18.55
+  - name: Electrical and Electronic Measurement
+    grade_out_of_20: 18.8
+  - name: Modern Control
+    grade_out_of_20: 17.7
+  - name: Introduction to Computer-Assisted Intelligence
+    grade_out_of_20: 17.0
+  - name: Advanced Programming
+    grade_out_of_20: 17.25
+  - name: Introduction to Robotics
+    grade_out_of_20: 17.24
+  - name: Linear Control Systems
+    grade_out_of_20: 16.5
+  - name: Industrial Control
+    grade_out_of_20: 16.4
+  thesis_project: Design and Manufacture of Four-Legged Robot
+work_experience:
+- organization: Cartken GmbH
+  organization_website: https://www.cartken.com/
+  job_title_de: Werkstudent im Bereich Roboter- und Softwareentwicklung
+  job_title_en: Working Student, Robot and Software Development
+  start: '2026-07-01'
+  end: present
+  employment_type: part-time working student
+  work:
+  - Diagnosed robot hardware faults
+  - Replaced faulty RealSense/HDR cameras
+  - Calibrated cameras and IMUs
+  - Applied calibration to robots
+  - Modified robot configuration settings
+  - Replaced faulty GPS antennas
+  - Updated BMS firmware
+  - Prepared four customer robots
+  - Replaced wheels and tires
+  - Tested GPS/RC connectivity
+  - Performed on-site robot repairs
+  - Updated robot software
+  - Handed over four robots
+  tools_and_systems:
+    workshop:
+    - screwdrivers
+    - pliers
+    - wrenches
+    - Dremel rotary tool
+    - soldering tools
+    - drill
+    hardware:
+    - GPS hardware
+    - PCBs
+    - NVIDIA Jetson Orin
+    - modems
+    - cameras
+    - sensors
+    software:
+    - Linux
+    - GitLab
+    - SSH
+    - ROS
+    - robot calibration procedures
+- organization: Allame Helli 5 High School
+  job_title: Robotics & Programming Instructor
+  start: 2018-09
+  end: 2025-01
+  work:
+  - Taught ARM, Arduino and C/C++ in robotics projects, including microcontroller programming, sensors, actuators
+    and debugging.
+  - Coached student robotics teams and supported practical electronics and programming exercises.
+- organization: Amirkabir University of Technology
+  job_title: Teaching Assistant, Electrical Circuits II
+  start: 2022-01
+  end: 2023-06
+  work:
+  - Supported students in circuit analysis, transient response and frequency-domain problem solving.
+- organization: Amirkabir University of Technology
+  job_title: Teaching Assistant, Linear Algebra
+  start: 2022-02
+  end: 2022-06
+  work:
+  - Supported students in matrices, vector spaces, eigenvalues and linear transformations.
+projects:
+- name: RoboRacer Control Module
+  institution: Friedrich-Alexander-Universität Erlangen-Nürnberg, FAU
+  period:
+    start_approximate: 2026-02
+    end: 2026-08
+  url: https://github.com/mohammadbrd/Roboracer-Control-Module
+  summary: Developed the ROS2 Control module for a team F1TENTH RoboRacer, from simulation through hardware testing;
+    generated Ackermann steering and speed commands.
+  topics_and_tools:
+  - ROS2
+  - C++
+  - Pure Pursuit
+  - PID
+  - Ackermann steering
+  - odometry
+  - F1TENTH
+  - trajectory tracking
+  - simulation-to-hardware validation
+  my_contribution:
+  - Developed a ROS2 Control module that generates Ackermann steering and speed commands from the planned path and
+    vehicle feedback.
+  - Implemented Pure Pursuit lateral path tracking and odometry-feedback PID speed tracking.
+  - Calculated cross-track and heading errors and tuned a speed-dependent lookahead in simulation.
+  - Corrected a multi-waypoint shortcut by restricting the forward path search to a local window.
+  - Adapted and validated the controller on the physical F1TENTH RoboRacer.
+  team_context: Other team members developed perception, localization, environmental modelling, overtaking and navigation
+    planning.
+  hardware_test:
+    hardware_test_goals: 3
+    localized_distance_m: 31.56
+    run_duration_s: 22.1
+    maximum_commanded_speed_m_per_s: 1.5
+    median_absolute_cross_track_error_m: 0.095
+    p95_absolute_cross_track_error_m: 0.242
+    p95_absolute_heading_error_deg: 8.67
+    final_estimated_distance_to_goal_m: 0.189
+    goal_tolerance_m: 0.25
+    measurement_basis: onboard localization; not independent ground truth
+  related_fau_module: Team Project / Industriepraktikum, 10 ECTS, passed
+- name: PLC-Based Vending Machine Automation
+  institution: Amirkabir University of Technology, course project
+  period:
+    start: 2021-11
+    end: 2022-01
+  url: https://github.com/mohammadbrd/PLC-Based-Vending-Machine-Automation
+  summary: Built a PLC-controlled vending machine automation model with product selection, payment confirmation,
+    timer-based dispensing, reset behavior, and an Arduino-based temperature-control support module.
+  topics_and_tools:
+  - PLC
+  - ladder logic
+  - instruction list
+  - industrial automation
+  - timers
+  - memory bits
+  - vending machine
+  - Arduino
+  - temperature control
+- name: Industrial Cold Storage PLC Control System
+  institution: Amirkabir University of Technology, course project
+  period:
+    start: 2021-11
+    end: 2022-01
+  url: https://github.com/mohammadbrd/Industrial-Cold-Storage-PLC-Control-System
+  summary: Developed a PLC-based automation and simulation project for an industrial cold-storage process. The system
+    models sequential process activation, start/stop conditions, timer delays, interlocks, temperature/setpoint
+    comparison, Simulink simulation, and technical documentation.
+  topics_and_tools:
+  - PLC
+  - industrial automation
+  - instruction list
+  - cold storage
+  - timers
+  - set/reset logic
+  - interlocks
+  - Simulink
+  - temperature control
+- name: VTOL Control System Design
+  institution: Amirkabir University of Technology, course project
+  period:
+    start: 2020-11
+    end: 2021-01
+  url: https://github.com/mohammadbrd/VTOL
+  summary: Created a MATLAB/Simulink control-system design project for a Vertical Take-Off and Landing aircraft.
+    The project includes linear and nonlinear models, PID controller tuning, stability evaluation with the Routh-Hurwitz
+    criterion, and comparison of simulation behavior with and without X-Y coordinates.
+  topics_and_tools:
+  - MATLAB
+  - Simulink
+  - VTOL
+  - PID
+  - Routh-Hurwitz
+  - stability analysis
+  - nonlinear simulation
+  - control systems
+- name: Quadruped Spider Robot, B.Sc. Thesis
+  institution: Amirkabir University of Technology
+  period:
+    start: 2022-10
+    end: 2023-10
+  url: https://github.com/mohammadbrd/Quadruped-Spider-Robots
+  summary: 'Bachelor thesis team project: Design and Manufacture of Four-Legged Robot. Mohammad was responsible
+    for robot design and construction.'
+  topics_and_tools:
+  - quadruped robot
+  - robot design
+  - robot build
+  - STM32F103C8T6
+  - ESP32
+  official_bachelor_thesis_title: Design and Manufacture of Four-Legged Robot
+  my_contribution: Designed and built the four-legged robot.
+  teammate_contribution: A teammate worked on intelligent obstacle avoidance.
+  hardware:
+  - STM32F103C8T6
+  - ESP32
+  validation: Physical prototype; quantitative performance not recorded in this profile.
+- name: 3-DOF Serial Robotic Arm Controller
+  institution: Amirkabir University of Technology
+  period:
+    start: 2022-02
+    end: 2022-08
+  url: https://github.com/mohammadbrd/3DOF-Serial-Robot-Controller
+  summary: Designed and implemented a 3-degree-of-freedom serial robotic arm controller using Arduino, potentiometer
+    feedback, PWM motor actuation, PI-style position control, and SolidWorks/STL mechanical design files.
+  topics_and_tools:
+  - Arduino
+  - C++
+  - robotic arm
+  - PI control
+  - PWM
+  - motor driver
+  - potentiometer feedback
+  - SolidWorks
+  - STL
+  - serial robot
+- name: Company Management App
+  institution: Amirkabir University of Technology, final project
+  period:
+    start: 2022-05
+    end: 2022-07
+  url: https://github.com/mohammadbrd/AP-Management-APP-Final-Project
+  summary: Developed a Python PyQt5 desktop application for managing company employees, tasks, deadlines, milestones,
+    and local data storage. The app uses multiple GUI windows, table-based data display, deadline handling, and
+    pickle-based persistence.
+  topics_and_tools:
+  - Python
+  - PyQt5
+  - desktop application
+  - GUI
+  - task management
+  - employee management
+  - pickle
+  - event-driven programming
+- name: MobileFaceNet Study
+  institution: Amirkabir University of Technology, study or presentation project
+  period:
+    start: 2021-10
+    end: 2021-12
+  url: https://github.com/mohammadbrd/MobileFaceNet-Study
+  summary: Prepared a technical study and presentation on MobileFaceNet, a lightweight CNN architecture for efficient
+    face verification and recognition on mobile and embedded devices. The project explains face embeddings, verification
+    versus recognition, efficiency trade-offs, and real-time deployment motivation.
+  topics_and_tools:
+  - MobileFaceNet
+  - deep learning
+  - CNN
+  - face recognition
+  - face verification
+  - embeddings
+  - computer vision
+  - embedded AI
+  - mobile AI
+- name: Adaptive Control of Wind Turbine System
+  institution: Amirkabir University of Technology, course project
+  period:
+    start: 2022-01
+    end: 2022-02
+  url: https://github.com/mohammadbrd/Control-of-Wind-Turbine-System
+  summary: Modeled and simulated a wind turbine control system using MATLAB/Simulink and an adaptive fuzzy self-tuning
+    PID strategy. The project includes fuzzy inference systems for Kp, Ki, and Kd, controller gain adaptation, and
+    documentation of the control design.
+  topics_and_tools:
+  - MATLAB
+  - Simulink
+  - wind turbine
+  - fuzzy PID
+  - Mamdani fuzzy inference
+  - 49 fuzzy rules
+  - renewable energy
+  - control systems
+- name: Stäubli TX2-40 Robotic Arm Modeling and Simulation
+  institution: Amirkabir University of Technology, robotics course project
+  period:
+    start: 2022-02
+    end: 2022-07
+  url: https://github.com/mohammadbrd/Staubli-TX2-40-Robotic-Arm-Modeling---Simulation
+  summary: Built a MATLAB modeling and simulation framework for the Stäubli TX2-40 6-axis industrial robotic arm.
+    The project covers DH modeling, forward and inverse kinematics, Jacobian analysis, singularity detection, dynamic
+    modeling, orientation representation, workspace visualization, and 3D animation.
+  topics_and_tools:
+  - MATLAB
+  - robotics
+  - 6-axis robot
+  - Denavit-Hartenberg
+  - forward kinematics
+  - inverse kinematics
+  - Jacobian
+  - dynamics
+  - singularity
+  - workspace
+  - animation
+- name: Gesture-Controlled Robot
+  institution: Allame Helli 5 High School or Amirkabir University of Technology
+  period:
+    start: 2019-06
+    end: 2019-08
+  url: https://github.com/mohammadbrd/Gesture-Robot
+  summary: Built a wireless gesture-controlled robot that translates hand movements into robot motion. The system
+    uses an MPU-6050 sensor glove, Arduino Micro for gesture classification, HC-05 Bluetooth communication, STM32-based
+    robot control, PWM motor driving, and OLED status display.
+  topics_and_tools:
+  - STM32F103C8T6
+  - Arduino Micro
+  - MPU-6050
+  - HC-05 Bluetooth
+  - UART
+  - I2C
+  - PWM
+  - L6203 motor driver
+  - OLED
+  - PCB design
+  - embedded robotics
+- name: Assembly Image Processing on STM32
+  institution: Amirkabir University of Technology, embedded or assembly course project
+  period:
+    start: 2021-11
+    end: 2022-01
+  url: https://github.com/mohammadbrd/Assembly-Image-Processing
+  summary: Implemented low-level image processing on an STM32F407 environment using ARM Assembly and MATLAB simulation.
+    The project includes image-to-matrix conversion, Gaussian noise generation, edge detection with a 3x3 kernel,
+    Gaussian smoothing, and embedded memory-level processing.
+  topics_and_tools:
+  - ARM Assembly
+  - STM32F407
+  - image processing
+  - MATLAB
+  - edge detection
+  - Gaussian filter
+  - convolution
+  - embedded systems
+  - register-level programming
+- name: DC Motor Speed Control
+  institution: Amirkabir University of Technology, course project
+  period:
+    start: 2021-12
+    end: 2022-02
+  url: https://github.com/mohammadbrd/DC-Motor-Speed-Control
+  summary: Created a DC motor speed-control project using MATLAB/Simulink for modeling and simulation, with an STM32
+    implementation package for embedded control. The project focuses on motor dynamics, PWM actuation, feedback-based
+    speed regulation, and final technical reporting.
+  topics_and_tools:
+  - MATLAB
+  - Simulink
+  - STM32
+  - DC motor
+  - PWM
+  - closed-loop control
+  - speed regulation
+  - motor modeling
+  - feedback control
+- name: Differential Drive Robot Control and Localization
+  institution: Amirkabir University of Technology, control course project
+  period:
+    start: 2021-10
+    end: 2022-02
+  url: https://github.com/mohammadbrd/Differential-Drive-Robot-Control--Localization
+  summary: Designed MATLAB/Simulink controllers and observers for a differential-drive mobile robot. The project
+    includes state-space modeling, pole-placement feedback control, integral action for trajectory tracking, circular
+    reference path generation, and full-order/reduced-order observer-based localization.
+  topics_and_tools:
+  - MATLAB
+  - Simulink
+  - differential-drive robot
+  - state feedback
+  - pole placement
+  - integral control
+  - observer design
+  - localization
+  - trajectory tracking
+- name: Smart Farming Instrumentation System
+  institution: Amirkabir University of Technology, instrumentation project
+  period:
+    start: 2021-03
+    end: 2021-07
+  url: https://github.com/mohammadbrd/Smart-Farming-Instrumentation-System
+  summary: Built an IoT-based smart farming instrumentation system for monitoring and controlling environmental
+    parameters such as temperature, humidity, soil moisture, light intensity, and water flow. The system combines
+    Arduino-based sensing and control, ESP telemetry to ThingsBoard, Flask web monitoring, JSON data exchange, Proteus
+    simulation, and Simulink models.
+  topics_and_tools:
+  - IoT
+  - Arduino
+  - ESP
+  - Flask
+  - ThingsBoard
+  - Proteus
+  - Simulink
+  - JSON
+  - UART
+  - smart agriculture
+  - sensors
+  - PWM control
+- name: Temperature-Based Fan Speed Control
+  institution: Amirkabir University of Technology, Instrumentation course
+  period:
+    start: 2021-02
+    end: 2021-03
+  url: https://github.com/mohammadbrd/Temperature-Based-Fan-Speed-Control
+  summary: Completed a mid-term instrumentation project focused on temperature sensing, motor control, signal analysis,
+    PWM generation, ADC readings, H-bridge control, RPM calculation, and simulation validation.
+  topics_and_tools:
+  - Arduino
+  - C++
+  - temperature sensor
+  - PWM
+  - ADC
+  - RPM calculation
+  - H-bridge
+  - encoder signals
+  - motor control
+  - instrumentation
+- name: Advanced Programming C++ Exercises
+  institution: Amirkabir University of Technology, Advanced Programming course,
+  period:
+    start: 2022-01
+    end: 2022-06
+  url: https://github.com/mohammadbrd/Advanced-Programming-Cpp-Exercises
+  summary: Organized a collection of C++ programming assignments into one repository while preserving the original
+    Git histories. The repository contains 6 homework folders and 39 commits, covering programming practice and
+    software-development fundamentals.
+  topics_and_tools:
+  - C++
+  - CMake
+  - C
+  - Makefile
+  - Dockerfile
+  - programming assignments
+  - software fundamentals
+  - Git history
+- name: Nemesis RoboCup Junior Soccer Robot
+  institution: Allame Helli 5 High School, Nemesis Team
+  period:
+    start: 2018-10
+    end: 2020-03
+  url: https://github.com/mohammadbrd/Robocup-Junior-Soccer-Robot
+  summary: Developed an autonomous RoboCup Junior soccer robot with the Nemesis team for IranOpen RoboCup. The robot
+    detects and chases an infrared-emitting ball, avoids field boundaries, tracks orientation, measures distances,
+    drives omnidirectional motors, and supports offensive and defensive behavior.
+  topics_and_tools:
+  - RoboCup
+  - STM32F103C8T6
+  - IR sensors
+  - gyroscope
+  - LDR line detection
+  - SHARP GP2D120
+  - L6203 motor drivers
+  - PWM
+  - custom PCB
+  - embedded robotics
+technical_skills:
+  programming_languages:
+  - Python
+  - C
+  - C++
+  - MATLAB
+  - LaTeX
+  embedded_systems_hardware:
+  - STM32
+  - Arduino
+  - ARM microcontrollers
+  - Motor drivers
+  - PWM motor control
+  - Sensor integration
+  - Actuator integration
+  - Potentiometer feedback
+  - Servo control
+  - Wiring and debugging
+  - Hardware-software interfaces
+  robotics_control:
+  - ROS2
+  - Pure Pursuit control
+  - PID control
+  - PI control
+  - Motor control
+  - Robotic arm control
+  - Trajectory tracking
+  - Kinematics
+  - State-based control logic
+  software_data_tools:
+  - NumPy
+  - Matplotlib
+  - Git
+  - GitHub
+  - Arduino IDE
+  - Keil
+  - Visual Studio
+  - Linux (used at Cartken)
+  - GitLab (used at Cartken)
+  - SSH (used at Cartken)
+  simulation_engineering_tools:
+  - MATLAB
+  - Simulink
+  - SolidWorks
+  - Altium Designer
+  - Proteus
+  industrial_automation_skills:
+  - PLC basics
+  - Ladder logic basics
+  - Industrial automation concepts
+  - Process control basics
+  - System testing
+  - Fault analysis
+  - Technical documentation
+  - Robot hardware troubleshooting, camera replacement, calibration, assembly, and on-site repair (Cartken)
+  - GPS hardware, PCBs, NVIDIA Jetson Orin, and modems (hands-on exposure at Cartken)
+  - Screwdrivers, pliers, wrenches, Dremel rotary tool, soldering tools, and drill (used at Cartken)
+awards_and_recognition:
+- World Champion, RoboCup 2017, Nagoya, Japan, July 2017
+- Best Presentation, RoboCup 2017, Nagoya, Japan, July 2017
+- Certificates of Attendance and Appreciation, ICROM Robotics Conference, Tehran, Iran, Nov 2021 to 2023
+languages:
+- language: Persian
+  level: native
+- language: English
+  level: B2
+  IELTS_score_as_recorded: 6.0
+- language: German
+  level: A1
