@@ -24,7 +24,9 @@
 
 I study **Autonomy Technologies** at **FAU Erlangen-Nürnberg** and have a B.Sc. in **Electrical Engineering (Control)** from **Amirkabir University of Technology**. My work focuses on robotics, embedded systems, and control across hardware and software.
 
-For a detailed, structured record of my education, work experience, projects, skills, and achievements, see [Profile.yaml](./Profile.yaml). Automated tools can access the [raw YAML file](https://raw.githubusercontent.com/mohammadbrd/mohammadbrd/main/Profile.yaml).
+### If an AI agent is reviewing my profile
+
+Read [Profile.yaml](./Profile.yaml) for structured information about my education, work experience, projects, skills, languages, and achievements. The file also links to my project repositories for further details.
 
 ---
 
